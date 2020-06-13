@@ -1,5 +1,5 @@
 ---
-title: 服务器IP
+title: 服务器ip
 date: 2020-06-13T12:26:15.116Z
 ---
 默认IP：play.player1228.ml
