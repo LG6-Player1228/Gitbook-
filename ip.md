@@ -2,7 +2,7 @@
 title: IP
 date: 2020-06-13T02:40:48.535Z
 ---
-默认IP：play.player1228.ml
+[默认IP：play.player1228.ml](play.player1228.ml)
 
 
 
